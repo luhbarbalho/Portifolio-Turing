@@ -147,6 +147,10 @@ header{
     animation: rotateBanner 1.5s 0.9s forwards;
 }
 
+.banner button a:focus {
+    color: #eed2d2;
+}
+
 
 .banner button:hover{
     opacity: 0.8;
